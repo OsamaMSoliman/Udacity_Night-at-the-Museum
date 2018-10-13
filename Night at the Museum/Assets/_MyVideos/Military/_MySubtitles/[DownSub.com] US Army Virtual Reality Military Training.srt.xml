@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.949s" id="p0" end="3.87s">with the sequester upon us and federal</p>
+      <p begin="3.87s" id="p1" end="6.089s">budget<span tts:color="#CCCCCC"> cuts</span><span tts:color="#E5E5E5"> the military has a tool</span><span tts:color="#CCCCCC"> to</span></p>
+      <p begin="6.089s" id="p2" end="9.63s"><span tts:color="#CCCCCC">help lessen costs virtual trainers</span><span tts:color="#E5E5E5"> these</span></p>
+      <p begin="9.63s" id="p3" end="11.88s">systems simulate a combat<span tts:color="#CCCCCC"> theater to</span></p>
+      <p begin="11.88s" id="p4" end="13.71s">prepare<span tts:color="#CCCCCC"> servicemembers for deployment</span></p>
+      <p begin="13.71s" id="p5" end="16.529s"><span tts:color="#CCCCCC">while saving</span><span tts:color="#E5E5E5"> the</span><span tts:color="#CCCCCC"> environment money and</span></p>
+      <p begin="16.529s" id="p6" end="19.23s">lives<span tts:color="#E5E5E5"> normally when the</span><span tts:color="#CCCCCC"> unit's come here</span></p>
+      <p begin="19.23s" id="p7" end="20.939s">to<span tts:color="#E5E5E5"> Train if they're going</span><span tts:color="#CCCCCC"> to</span><span tts:color="#E5E5E5"> use real</span></p>
+      <p begin="20.939s" id="p8" end="22.83s">vehicles they<span tts:color="#CCCCCC"> have to send</span><span tts:color="#E5E5E5"> people</span><span tts:color="#CCCCCC"> up</span><span tts:color="#E5E5E5"> a</span></p>
+      <p begin="22.83s" id="p9" end="25.5s">day in advance<span tts:color="#CCCCCC"> you</span><span tts:color="#E5E5E5"> know cost money</span><span tts:color="#CCCCCC"> to</span></p>
+      <p begin="25.5s" id="p10" end="27.57s">send them up here ahead<span tts:color="#E5E5E5"> of time they</span></p>
+      <p begin="27.57s" id="p11" end="29.76s"><span tts:color="#E5E5E5">don't have to coordinate for any fuel no</span></p>
+      <p begin="29.76s" id="p12" end="31.83s">fuel cost to the unit<span tts:color="#CCCCCC"> they don't have to</span></p>
+      <p begin="31.83s" id="p13" end="33.75s">coordinate<span tts:color="#CCCCCC"> with any other unit</span><span tts:color="#E5E5E5"> for any</span></p>
+      <p begin="33.75s" id="p14" end="36.0s">kind of support<span tts:color="#CCCCCC"> so we</span><span tts:color="#E5E5E5"> don't need</span></p>
+      <p begin="36.0s" id="p15" end="38.18s">helicopters to fly<span tts:color="#E5E5E5"> in to do medevac</span></p>
+      <p begin="38.18s" id="p16" end="40.8s">evacuations we can simulate that<span tts:color="#E5E5E5"> here</span></p>
+      <p begin="40.8s" id="p17" end="44.539s">there's no<span tts:color="#CCCCCC"> spend on ammunition</span></p>
+      <p begin="44.539s" id="p18" end="46.68s"><span tts:color="#E5E5E5">explosives or those types of things</span></p>
+      <p begin="46.68s" id="p19" end="48.78s">because<span tts:color="#E5E5E5"> we can simulate that here and so</span></p>
+      <p begin="48.78s" id="p20" end="51.059s">saving<span tts:color="#CCCCCC"> all that fun not</span><span tts:color="#E5E5E5"> only are</span><span tts:color="#CCCCCC"> there</span></p>
+      <p begin="51.059s" id="p21" end="53.01s">virtual trainer<span tts:color="#E5E5E5"> saving money they also</span></p>
+      <p begin="53.01s" id="p22" end="54.69s">provide quality training<span tts:color="#E5E5E5"> for the</span></p>
+      <p begin="54.69s" id="p23" end="56.46s"><span tts:color="#CCCCCC">servicemembers</span><span tts:color="#E5E5E5"> I thought it was really</span></p>
+      <p begin="56.46s" id="p24" end="59.219s"><span tts:color="#E5E5E5">good I felt you</span><span tts:color="#CCCCCC"> know it's as close</span><span tts:color="#E5E5E5"> as</span></p>
+      <p begin="59.219s" id="p25" end="61.05s"><span tts:color="#CCCCCC">you can get to being over there you know</span></p>
+      <p begin="61.05s" id="p26" end="62.219s">without actually<span tts:color="#E5E5E5"> taking fire</span></p>
+      <p begin="62.219s" id="p27" end="64.65s">and<span tts:color="#CCCCCC"> those</span><span tts:color="#E5E5E5"> definitely will help you know</span></p>
+      <p begin="64.65s" id="p28" end="66.45s">it shows you how to react with<span tts:color="#E5E5E5"> the</span></p>
+      <p begin="66.45s" id="p29" end="68.28s"><span tts:color="#E5E5E5">things you need to question and you'd</span></p>
+      <p begin="68.28s" id="p30" end="69.75s">rather make<span tts:color="#E5E5E5"> a mistake here then make the</span></p>
+      <p begin="69.75s" id="p31" end="71.31s">mistakes<span tts:color="#E5E5E5"> over there they are an</span></p>
+      <p begin="71.31s" id="p32" end="73.439s">effective<span tts:color="#CCCCCC"> way to keep the military safe</span></p>
+      <p begin="73.439s" id="p33" end="75.689s">and help troops get the training<span tts:color="#E5E5E5"> they</span></p>
+      <p begin="75.689s" id="p34" end="77.31s"><span tts:color="#CCCCCC">need to do their jobs</span></p>
+      <p begin="77.31s" id="p35" end="78.81s">reporting from<span tts:color="#E5E5E5"> Julie's</span></p>
+      <p begin="78.81s" id="p36" end="81.509s">mcguire-dix-lakehurst<span tts:color="#CCCCCC"> I'm Army sergeant</span></p>
+      <p begin="81.509s" id="p37" end="0.0s"><span tts:color="#CCCCCC">Brittany Armstrong</span></p>
+    </div>
+  </body>
+</tt>

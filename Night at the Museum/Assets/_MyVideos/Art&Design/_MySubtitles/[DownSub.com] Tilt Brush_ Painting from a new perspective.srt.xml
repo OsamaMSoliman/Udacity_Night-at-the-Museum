@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" id="p0" end="0.5s"></p>
+      <p begin="0.5s" id="p1" end="2.4s">[BACKGROUND NOISES]</p>
+      <p begin="2.4s" id="p2" end="6.6s"></p>
+      <p begin="6.6s" id="p3" end="8.7s">[ELECTRONIC WIND NOISES]</p>
+      <p begin="8.7s" id="p4" end="10.2s"></p>
+      <p begin="10.2s" id="p5" end="13.55s">[MUSIC PLAYING]</p>
+    </div>
+  </body>
+</tt>

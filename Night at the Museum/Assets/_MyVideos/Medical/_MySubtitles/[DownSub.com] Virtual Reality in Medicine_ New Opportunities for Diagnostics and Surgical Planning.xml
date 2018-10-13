@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="5.03s" id="p0" end="9.14s">For the MIRACLE flagship project at the University of Basel,</p>
+      <p begin="10.0s" id="p1" end="13.2s">we developed this virtual reality room.</p>
+      <p begin="15.15s" id="p2" end="18.01s">What is unique about this virtual reality room, is,</p>
+      <p begin="18.05s" id="p3" end="25.0s">that for the first time we provide volume-rendered images in real time.</p>
+      <p begin="26.0s" id="p4" end="32.15s">That allows surgeons and radiologists to visualize their medical image data sets.</p>
+      <p begin="34.2s" id="p5" end="36.14s">They can walk around;</p>
+      <p begin="37.0s" id="p6" end="42.0s">they can grab the object and reposition it;</p>
+      <p begin="42.1s" id="p7" end="47.2s">they can also change the size: zoom in or zoom out.</p>
+      <p begin="47.24s" id="p8" end="54.12s">They can also rotate so that they have the best view of the scene.</p>
+      <p begin="59.0s" id="p9" end="64.0s">As an additional option, we also gave them a cutting plane.</p>
+      <p begin="64.069s" id="p10" end="69.07s">This cutting plane can be used to cut through the volumetric data set,</p>
+      <p begin="71.13s" id="p11" end="76.2s">to, for example, cut through the skull or the rib cage;</p>
+      <p begin="77.0s" id="p12" end="81.23s">but at the same time, I can switch the cutting plane to CT mode.</p>
+      <p begin="82.05s" id="p13" end="85.1s">So I have a plane which can be freely moved around</p>
+      <p begin="86.06s" id="p14" end="91.18s">and visualizes the original CT data set behind the scene.</p>
+      <p begin="92.1s" id="p15" end="96.05s">This virtual reality room provides a very intuitive way</p>
+      <p begin="96.1s" id="p16" end="102.11s">of positioning these cutting planes in 3D space.</p>
+      <p begin="103.0s" id="p17" end="105.07s">During the project we realized</p>
+      <p begin="106.1s" id="p18" end="112.0s">that shadows are crucial for an increased depth perception.</p>
+      <p begin="112.13s" id="p19" end="118.0s">To emphasize this we also integrated an OR lamp into the scene.</p>
+      <p begin="118.1s" id="p20" end="120.0s">This OR lamp can now be switched on</p>
+      <p begin="120.01s" id="p21" end="123.08s">and we can freely select the brightness.</p>
+      <p begin="124.08s" id="p22" end="126.0s">And if we move this OR lamp around,</p>
+      <p begin="126.08s" id="p23" end="131.03s">we can see that the shadows caused by the rib cage</p>
+      <p begin="131.14s" id="p24" end="136.03s">continuously change with the motion of the OR lamp.</p>
+      <p begin="136.21s" id="p25" end="141.13s">And exactly these shadows are crucial for an increased depth perception.</p>
+      <p begin="142.14s" id="p26" end="145.14s">This VR room has been developed as part of the MIRACLE project</p>
+      <p begin="146.08s" id="p27" end="149.08s">which is funded by the Werner Siemens-Stiftung.</p>
+      <p begin="149.18s" id="p28" end="155.23s">It was only made possible with the recent development of VR glasses</p>
+      <p begin="156.07s" id="p29" end="159.11s">as well as GPU graphics hardware</p>
+      <p begin="159.22s" id="p30" end="0.0s">of course combined with our quite unique volume-rendering framework.</p>
+    </div>
+  </body>
+</tt>

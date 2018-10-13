@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.833s" id="p0" end="2.883s">- Get engaged left and right.</p>
+      <p begin="2.883s" id="p1" end="4.762s">Contact right, contact right.</p>
+      <p begin="4.762s" id="p2" end="6.634s">Back of our vehicle just got hit.</p>
+      <p begin="6.634s" id="p3" end="8.959s">20, 30 Marines up there that got hit.</p>
+      <p begin="8.959s" id="p4" end="11.042s">It's pretty catastrophic.</p>
+      <p begin="12.406s" id="p5" end="14.989s">(gentle music)</p>
+      <p begin="17.978s" id="p6" end="19.311s">My name is Chris Merkle, I'm a veteran</p>
+      <p begin="19.311s" id="p7" end="20.498s">of the United States Marine Corps</p>
+      <p begin="20.498s" id="p8" end="23.482s">and I'm a full-time student,<br />trying to reinvent myself</p>
+      <p begin="23.482s" id="p9" end="26.315s">and transition back into<br />normal civilian life.</p>
+      <p begin="26.482s" id="p10" end="28.315s">I joined right out of high school<br />when I was 17.</p>
+      <p begin="28.514s" id="p11" end="31.542s">My role in the Marine Corps<br />was just a grunt, infantryman.</p>
+      <p begin="31.542s" id="p12" end="33.548s">So, nothing fancy, just the down and dirty</p>
+      <p begin="33.548s" id="p13" end="35.646s">of what war comes down to.</p>
+      <p begin="35.646s" id="p14" end="37.666s">You’d experience something that's horrific,</p>
+      <p begin="37.666s" id="p15" end="39.646s">that your body doesn't<br />know how to comprehend,</p>
+      <p begin="39.646s" id="p16" end="41.415s">and when you don't address<br />it, it just manifests</p>
+      <p begin="41.415s" id="p17" end="42.945s">in this horrible thing, and you end up</p>
+      <p begin="42.945s" id="p18" end="44.253s">locked in your room hating the world,</p>
+      <p begin="44.253s" id="p19" end="45.602s">thinking everybody's coming after you.</p>
+      <p begin="45.602s" id="p20" end="47.144s">And I didn't want to be that person.</p>
+      <p begin="47.144s" id="p21" end="50.141s">Talk therapy after talk<br />therapy, it wasn't working,</p>
+      <p begin="50.141s" id="p22" end="51.576s">and it was like, now what?</p>
+      <p begin="51.576s" id="p23" end="52.55s">What am I gonna do?</p>
+      <p begin="52.55s" id="p24" end="55.442s">Virtual reality was a godsend.</p>
+      <p begin="55.442s" id="p25" end="56.275s">- [Albert] Okay.</p>
+      <p begin="56.275s" id="p26" end="58.606s">You can begin<br />to narrate the experience</p>
+      <p begin="58.606s" id="p27" end="60.31s">that you went through.</p>
+      <p begin="60.31s" id="p28" end="63.992s">- All right, so it's a really<br />dark, it's early morning.</p>
+      <p begin="63.992s" id="p29" end="66.618s">All right, there you go.</p>
+      <p begin="66.618s" id="p30" end="68.229s">We start taking some small arms fire.</p>
+      <p begin="68.229s" id="p31" end="70.563s">Some machine gun fire.</p>
+      <p begin="70.563s" id="p32" end="74.109s">All right, can you do<br />a big explosion up ahead?</p>
+      <p begin="74.109s" id="p33" end="76.671s">(gunfire explosions)</p>
+      <p begin="76.671s" id="p34" end="78.05s">Yeah, just a really surreal scene</p>
+      <p begin="78.05s" id="p35" end="82.4s">just to see event, after event,<br />after event, after event.</p>
+      <p begin="82.4s" id="p36" end="84.789s">- I think it's hard for people to imagine</p>
+      <p begin="84.789s" id="p37" end="87.241s">the enormity of the<br />challenges that people face</p>
+      <p begin="87.241s" id="p38" end="90.717s">when they come back from war<br />and adjust to civilian life.</p>
+      <p begin="90.717s" id="p39" end="94.785s">We can activate emotions<br />in a very deep way in VR,</p>
+      <p begin="94.785s" id="p40" end="97.318s">helping a patient go back and confront,</p>
+      <p begin="97.318s" id="p41" end="100.208s">and process very difficult<br />emotional memories.</p>
+      <p begin="100.208s" id="p42" end="102.902s">Advanced processing power,<br />faster computers are</p>
+      <p begin="102.902s" id="p43" end="105.092s">essential for delivering good VR.</p>
+      <p begin="105.092s" id="p44" end="106.836s">With the technology getting better,</p>
+      <p begin="106.836s" id="p45" end="108.801s">computers have gotten faster, and you know,</p>
+      <p begin="108.801s" id="p46" end="111.005s">things like some of the<br />latest Intel processors,</p>
+      <p begin="111.005s" id="p47" end="113.183s">they're mind blowing,<br />they're like rockets.</p>
+      <p begin="113.183s" id="p48" end="114.677s">And so, that's why we can deliver VR</p>
+      <p begin="114.677s" id="p49" end="118.001s">that can make a difference<br />in people's lives.</p>
+      <p begin="118.001s" id="p50" end="120.298s">You know, we ask so much<br />of our service members,</p>
+      <p begin="120.298s" id="p51" end="122.807s">and we can't forget them<br />when they come back.</p>
+      <p begin="122.807s" id="p52" end="125.38s">They deserve our best efforts,<br />and the best technology</p>
+      <p begin="125.38s" id="p53" end="127.967s">available to help them get<br />back on the right track</p>
+      <p begin="127.967s" id="p54" end="129.868s">for the rest of their life.</p>
+      <p begin="129.868s" id="p55" end="132.046s">- So I'm setting a new path for myself.</p>
+      <p begin="132.046s" id="p56" end="133.683s">I wanna be a clinical psychologist.</p>
+      <p begin="133.683s" id="p57" end="135.875s">I finished my undergrad<br />literally two weeks ago,</p>
+      <p begin="135.875s" id="p58" end="137.273s">I jumped ahead to a masters</p>
+      <p begin="137.273s" id="p59" end="139.042s">and a doctorate program yesterday.</p>
+      <p begin="139.042s" id="p60" end="141.325s">I have five years ahead of<br />me, and a whole lifetime</p>
+      <p begin="141.325s" id="p61" end="143.279s">ahead of that to hopefully<br />help as many people as I can.</p>
+      <p begin="143.279s" id="p62" end="146.029s">And go to school and help others.</p>
+      <p begin="147.867s" id="p63" end="150.279s">- VR is a transformative technology</p>
+      <p begin="150.279s" id="p64" end="154.345s">that's going to change<br />everything about how we learn,</p>
+      <p begin="154.345s" id="p65" end="157.428s">how we heal, how we experience places</p>
+      <p begin="158.278s" id="p66" end="160.417s">that we could never go to.</p>
+      <p begin="160.417s" id="p67" end="164.024s">The cool thing is that these<br />are really consumer products</p>
+      <p begin="164.024s" id="p68" end="165.842s">everyone will have one in their home,</p>
+      <p begin="165.842s" id="p69" end="168.377s">and the advanced level of<br />processing that we're getting</p>
+      <p begin="168.377s" id="p70" end="170.779s">allows everyone to be<br />able to buy a computer</p>
+      <p begin="170.779s" id="p71" end="173.355s">that'll run a state of the art VR headset</p>
+      <p begin="173.355s" id="p72" end="175.254s">and you'll be able to consume media</p>
+      <p begin="175.254s" id="p73" end="177.406s">in dramatically new ways.</p>
+      <p begin="177.406s" id="p74" end="181.312s">There's so much value<br />beyond just entertainment,</p>
+      <p begin="181.312s" id="p75" end="184.852s">to use the power of this<br />technology to help people,</p>
+      <p begin="184.852s" id="p76" end="0.0s">that is really exciting for me.</p>
+    </div>
+  </body>
+</tt>

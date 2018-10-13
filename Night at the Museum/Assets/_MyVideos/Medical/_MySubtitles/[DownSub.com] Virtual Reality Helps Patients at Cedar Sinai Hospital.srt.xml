@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.03s" id="p0" end="2.909s">virtual reality<span tts:color="#CCCCCC"> is a way to immerse</span></p>
+      <p begin="2.909s" id="p1" end="6.029s"><span tts:color="#CCCCCC">people in alternative worlds</span><span tts:color="#E5E5E5"> so we use</span></p>
+      <p begin="6.029s" id="p2" end="9.349s">goggles<span tts:color="#CCCCCC"> that</span><span tts:color="#E5E5E5"> transport people to</span></p>
+      <p begin="9.349s" id="p3" end="12.059s"><span tts:color="#E5E5E5">entirely different</span><span tts:color="#CCCCCC"> universe a different</span></p>
+      <p begin="12.059s" id="p4" end="14.429s">planet<span tts:color="#CCCCCC"> different</span><span tts:color="#E5E5E5"> environment places that</span></p>
+      <p begin="14.429s" id="p5" end="15.99s"><span tts:color="#E5E5E5">we've never seen or been</span><span tts:color="#CCCCCC"> before maybe</span></p>
+      <p begin="15.99s" id="p6" end="18.42s">even<span tts:color="#CCCCCC"> ever imagined before</span><span tts:color="#E5E5E5"> we meet</span></p>
+      <p begin="18.42s" id="p7" end="20.52s">patients<span tts:color="#CCCCCC"> where</span><span tts:color="#E5E5E5"> they are we come to their</span></p>
+      <p begin="20.52s" id="p8" end="23.369s">hospital<span tts:color="#CCCCCC"> room and we fit them with the</span></p>
+      <p begin="23.369s" id="p9" end="25.08s">goggles<span tts:color="#CCCCCC"> make sure they're snug and</span></p>
+      <p begin="25.08s" id="p10" end="26.49s"><span tts:color="#E5E5E5">comfortable</span><span tts:color="#CCCCCC"> then we bring them through</span></p>
+      <p begin="26.49s" id="p11" end="29.31s"><span tts:color="#E5E5E5">the video experiences one video brings</span></p>
+      <p begin="29.31s" id="p12" end="31.32s"><span tts:color="#E5E5E5">people to Iceland</span><span tts:color="#CCCCCC"> where they get</span><span tts:color="#E5E5E5"> in a</span></p>
+      <p begin="31.32s" id="p13" end="33.239s"><span tts:color="#E5E5E5">helicopter and</span><span tts:color="#CCCCCC"> they can explore these</span></p>
+      <p begin="33.239s" id="p14" end="36.09s">unbelievable topographies<span tts:color="#E5E5E5"> the second</span></p>
+      <p begin="36.09s" id="p15" end="38.91s"><span tts:color="#E5E5E5">video is an art studio which is an</span></p>
+      <p begin="38.91s" id="p16" end="41.059s"><span tts:color="#E5E5E5">opportunity</span><span tts:color="#CCCCCC"> for patients</span><span tts:color="#E5E5E5"> to sit back and</span></p>
+      <p begin="41.059s" id="p17" end="43.649s">draw<span tts:color="#E5E5E5"> painting the third video is great</span></p>
+      <p begin="43.649s" id="p18" end="45.21s">for people<span tts:color="#E5E5E5"> that</span><span tts:color="#CCCCCC"> love</span><span tts:color="#E5E5E5"> the water and love</span></p>
+      <p begin="45.21s" id="p19" end="48.329s">the sea<span tts:color="#E5E5E5"> they can swim with dolphins and</span></p>
+      <p begin="48.329s" id="p20" end="50.91s"><span tts:color="#E5E5E5">with sea creatures like blue whales</span></p>
+      <p begin="50.91s" id="p21" end="52.98s"><span tts:color="#CCCCCC">takes about twenty minutes of</span><span tts:color="#E5E5E5"> time and</span></p>
+      <p begin="52.98s" id="p22" end="55.11s">then<span tts:color="#E5E5E5"> afterwards we sit down and find out</span></p>
+      <p begin="55.11s" id="p23" end="56.789s">what they thought of<span tts:color="#E5E5E5"> it and it's been a</span></p>
+      <p begin="56.789s" id="p24" end="58.32s">little<span tts:color="#E5E5E5"> time learning from</span><span tts:color="#CCCCCC"> them</span><span tts:color="#E5E5E5"> so what</span></p>
+      <p begin="58.32s" id="p25" end="60.21s">we're doing<span tts:color="#E5E5E5"> here</span><span tts:color="#CCCCCC"> is part of a larger</span></p>
+      <p begin="60.21s" id="p26" end="62.73s">initiative<span tts:color="#CCCCCC"> to find out how</span><span tts:color="#E5E5E5"> to use</span></p>
+      <p begin="62.73s" id="p27" end="64.68s"><span tts:color="#CCCCCC">digital technologies to</span><span tts:color="#E5E5E5"> improve the</span></p>
+      <p begin="64.68s" id="p28" end="67.53s">value<span tts:color="#E5E5E5"> of care at</span><span tts:color="#CCCCCC"> cedars-sinai</span><span tts:color="#E5E5E5"> and beyond</span></p>
+      <p begin="67.53s" id="p29" end="70.049s"><span tts:color="#E5E5E5">and by value we mean we want to improve</span></p>
+      <p begin="70.049s" id="p30" end="72.6s"><span tts:color="#E5E5E5">the quality</span><span tts:color="#CCCCCC"> of care the experiences that</span></p>
+      <p begin="72.6s" id="p31" end="75.0s">our patients<span tts:color="#E5E5E5"> have but also reduce</span><span tts:color="#CCCCCC"> the</span></p>
+      <p begin="75.0s" id="p32" end="77.4s">cost of<span tts:color="#E5E5E5"> care</span><span tts:color="#CCCCCC"> and something</span><span tts:color="#E5E5E5"> like virtual</span></p>
+      <p begin="77.4s" id="p33" end="79.68s"><span tts:color="#CCCCCC">reality might be able to do that by</span></p>
+      <p begin="79.68s" id="p34" end="82.11s"><span tts:color="#E5E5E5">reducing the resources that are</span><span tts:color="#CCCCCC"> fused</span><span tts:color="#E5E5E5"> or</span></p>
+      <p begin="82.11s" id="p35" end="83.88s">shortening the length of stay that</p>
+      <p begin="83.88s" id="p36" end="85.59s">people spend<span tts:color="#E5E5E5"> in the hospital</span></p>
+      <p begin="85.59s" id="p37" end="87.27s">and as a result improve their overall</p>
+      <p begin="87.27s" id="p38" end="90.06s"><span tts:color="#CCCCCC">experience</span><span tts:color="#E5E5E5"> and reduce resources at the</span></p>
+      <p begin="90.06s" id="p39" end="92.64s">same time our goal is<span tts:color="#CCCCCC"> to</span><span tts:color="#E5E5E5"> not</span><span tts:color="#CCCCCC"> just do</span></p>
+      <p begin="92.64s" id="p40" end="95.189s"><span tts:color="#E5E5E5">this but to analyze it to study it and</span></p>
+      <p begin="95.189s" id="p41" end="96.9s"><span tts:color="#E5E5E5">to publish it and to disseminate what</span></p>
+      <p begin="96.9s" id="p42" end="98.46s"><span tts:color="#E5E5E5">we're learning to the rest of the</span></p>
+      <p begin="98.46s" id="p43" end="100.11s"><span tts:color="#CCCCCC">healthcare world</span><span tts:color="#E5E5E5"> so that what we're</span></p>
+      <p begin="100.11s" id="p44" end="101.579s"><span tts:color="#CCCCCC">doing</span><span tts:color="#E5E5E5"> here at cedars-sinai can be a</span></p>
+      <p begin="101.579s" id="p45" end="103.79s">model<span tts:color="#CCCCCC"> for others to follow</span></p>
+      <p begin="103.79s" id="p46" end="0.0s"><span tts:color="#CCCCCC">you</span></p>
+    </div>
+  </body>
+</tt>

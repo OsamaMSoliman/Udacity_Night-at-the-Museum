@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" id="p0" end="1.92s"><span tts:color="#E5E5E5">what if people could have a tool so</span></p>
+      <p begin="1.92s" id="p1" end="3.689s">intuitive<span tts:color="#CCCCCC"> that it would feel invisible</span></p>
+      <p begin="3.689s" id="p2" end="5.46s"><span tts:color="#CCCCCC">allowing them to focus</span><span tts:color="#E5E5E5"> on what really</span></p>
+      <p begin="5.46s" id="p3" end="8.67s">matters<span tts:color="#CCCCCC"> the creation gravity sketch</span><span tts:color="#E5E5E5"> is</span></p>
+      <p begin="8.67s" id="p4" end="10.74s">the most intuitive tool for 3d design</p>
+      <p begin="10.74s" id="p5" end="13.08s">allowing<span tts:color="#E5E5E5"> anyone to bring their ideas to</span></p>
+      <p begin="13.08s" id="p6" end="14.759s"><span tts:color="#CCCCCC">life</span><span tts:color="#E5E5E5"> with every stroke and gravity</span></p>
+      <p begin="14.759s" id="p7" end="16.71s">sketch you're creating a 3d model<span tts:color="#CCCCCC"> that</span></p>
+      <p begin="16.71s" id="p8" end="18.42s">model could then be manipulated<span tts:color="#CCCCCC"> you can</span></p>
+      <p begin="18.42s" id="p9" end="19.56s"><span tts:color="#E5E5E5">grab</span><span tts:color="#CCCCCC"> that model you</span><span tts:color="#E5E5E5"> can move it around</span></p>
+      <p begin="19.56s" id="p10" end="21.27s">in<span tts:color="#CCCCCC"> your free space</span><span tts:color="#E5E5E5"> you can change this</span></p>
+      <p begin="21.27s" id="p11" end="23.67s">color<span tts:color="#CCCCCC"> you can duplicate that model</span><span tts:color="#E5E5E5"> and</span></p>
+      <p begin="23.67s" id="p12" end="25.38s">create series of these different strokes</p>
+      <p begin="25.38s" id="p13" end="27.3s"><span tts:color="#E5E5E5">to</span><span tts:color="#CCCCCC"> create</span><span tts:color="#E5E5E5"> your actual object working</span></p>
+      <p begin="27.3s" id="p14" end="28.529s">with your object right in front<span tts:color="#E5E5E5"> of you</span></p>
+      <p begin="28.529s" id="p15" end="30.599s"><span tts:color="#E5E5E5">and then scaling it straight up to</span><span tts:color="#CCCCCC"> the</span></p>
+      <p begin="30.599s" id="p16" end="33.59s">architectural<span tts:color="#E5E5E5"> scale</span></p>
+      <p begin="43.65s" id="p17" end="0.0s">you</p>
+    </div>
+  </body>
+</tt>

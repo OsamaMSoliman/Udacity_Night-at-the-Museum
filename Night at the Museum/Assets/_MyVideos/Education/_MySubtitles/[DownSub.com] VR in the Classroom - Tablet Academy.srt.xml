@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="1.07s" id="p0" end="4.62s">virtual reality<span tts:color="#CCCCCC"> or VR is a new area for</span></p>
+      <p begin="4.62s" id="p1" end="6.72s"><span tts:color="#E5E5E5">education</span><span tts:color="#CCCCCC"> it's going to develop</span><span tts:color="#E5E5E5"> really</span></p>
+      <p begin="6.72s" id="p2" end="7.95s">quick it's<span tts:color="#E5E5E5"> going to</span><span tts:color="#CCCCCC"> become part of</span></p>
+      <p begin="7.95s" id="p3" end="8.91s"><span tts:color="#CCCCCC">everyday life</span></p>
+      <p begin="8.91s" id="p4" end="11.04s">so we've started to explore sessions</p>
+      <p begin="11.04s" id="p5" end="12.9s">with schools where we<span tts:color="#E5E5E5"> link in the</span></p>
+      <p begin="12.9s" id="p6" end="15.12s"><span tts:color="#CCCCCC">curriculum outcomes</span><span tts:color="#E5E5E5"> with materials</span></p>
+      <p begin="15.12s" id="p7" end="18.17s">available in virtual reality</p>
+      <p begin="18.68s" id="p8" end="21.829s">[Music]</p>
+      <p begin="22.1s" id="p9" end="24.39s">today we've been running a virtual</p>
+      <p begin="24.39s" id="p10" end="26.519s"><span tts:color="#E5E5E5">reality workshop of a group of students</span></p>
+      <p begin="26.519s" id="p11" end="30.599s">have a look<span tts:color="#CCCCCC"> off what can you see we've</span></p>
+      <p begin="30.599s" id="p12" end="32.13s"><span tts:color="#CCCCCC">been looking at some</span><span tts:color="#E5E5E5"> different</span><span tts:color="#CCCCCC"> areas</span></p>
+      <p begin="32.13s" id="p13" end="34.29s">we've been into space<span tts:color="#CCCCCC"> we went up to the</span></p>
+      <p begin="34.29s" id="p14" end="35.46s">top<span tts:color="#E5E5E5"> of the Empire State Building look</span></p>
+      <p begin="35.46s" id="p15" end="37.44s">out at the whole<span tts:color="#E5E5E5"> of New York and then we</span></p>
+      <p begin="37.44s" id="p16" end="39.989s">also went<span tts:color="#E5E5E5"> back in time into the trenches</span></p>
+      <p begin="39.989s" id="p17" end="42.149s"><span tts:color="#E5E5E5">of</span><span tts:color="#CCCCCC"> World</span><span tts:color="#E5E5E5"> War one so virtual reality</span></p>
+      <p begin="42.149s" id="p18" end="44.19s">provides students with the<span tts:color="#E5E5E5"> opportunity</span></p>
+      <p begin="44.19s" id="p19" end="46.86s"><span tts:color="#CCCCCC">to experience things</span><span tts:color="#E5E5E5"> they may</span><span tts:color="#CCCCCC"> never see</span></p>
+      <p begin="46.86s" id="p20" end="49.98s">go land on the moon<span tts:color="#E5E5E5"> okay let's go they</span></p>
+      <p begin="49.98s" id="p21" end="51.48s">feel like<span tts:color="#E5E5E5"> they're there</span><span tts:color="#CCCCCC"> so they start</span></p>
+      <p begin="51.48s" id="p22" end="53.34s"><span tts:color="#CCCCCC">asking questions</span><span tts:color="#E5E5E5"> about</span><span tts:color="#CCCCCC"> what's around</span><span tts:color="#E5E5E5"> and</span></p>
+      <p begin="53.34s" id="p23" end="54.75s">the great thing about the earth the</p>
+      <p begin="54.75s" id="p24" end="56.579s">reason<span tts:color="#CCCCCC"> today Google expeditions is it</span></p>
+      <p begin="56.579s" id="p25" end="58.68s">gives you all that<span tts:color="#CCCCCC"> information so as the</span></p>
+      <p begin="58.68s" id="p26" end="60.51s">technology develops<span tts:color="#CCCCCC"> in virtual reality</span></p>
+      <p begin="60.51s" id="p27" end="62.67s">we will be able<span tts:color="#CCCCCC"> to develop the workshops</span></p>
+      <p begin="62.67s" id="p28" end="64.559s">for more advanced to use more<span tts:color="#E5E5E5"> advanced</span></p>
+      <p begin="64.559s" id="p29" end="66.6s">technology but<span tts:color="#E5E5E5"> the key is to</span><span tts:color="#CCCCCC"> make sure</span></p>
+      <p begin="66.6s" id="p30" end="68.369s"><span tts:color="#E5E5E5">it</span><span tts:color="#CCCCCC"> always comes back to</span><span tts:color="#E5E5E5"> the learning</span></p>
+      <p begin="68.369s" id="p31" end="70.32s">outcomes<span tts:color="#CCCCCC"> it's been a</span><span tts:color="#E5E5E5"> lot of research</span></p>
+      <p begin="70.32s" id="p32" end="73.17s">that<span tts:color="#CCCCCC"> shows that</span><span tts:color="#E5E5E5"> spatial</span><span tts:color="#CCCCCC"> memory</span><span tts:color="#E5E5E5"> allows</span></p>
+      <p begin="73.17s" id="p33" end="76.259s">you to and<span tts:color="#E5E5E5"> bed memories much more deeply</span></p>
+      <p begin="76.259s" id="p34" end="78.18s">than<span tts:color="#E5E5E5"> really contextual from watching a</span></p>
+      <p begin="78.18s" id="p35" end="80.67s">video<span tts:color="#E5E5E5"> and</span><span tts:color="#CCCCCC"> using virtual reality we can</span></p>
+      <p begin="80.67s" id="p36" end="83.07s"><span tts:color="#CCCCCC">embed that</span><span tts:color="#E5E5E5"> spatial memory and assign it</span></p>
+      <p begin="83.07s" id="p37" end="84.72s"><span tts:color="#E5E5E5">with facts things to learn</span></p>
+      <p begin="84.72s" id="p38" end="86.52s"><span tts:color="#E5E5E5">allows students to</span><span tts:color="#CCCCCC"> remember things much</span></p>
+      <p begin="86.52s" id="p39" end="88.409s">much<span tts:color="#CCCCCC"> easier than looking</span><span tts:color="#E5E5E5"> detail</span><span tts:color="#CCCCCC"> if you</span></p>
+      <p begin="88.409s" id="p40" end="91.95s"><span tts:color="#CCCCCC">see these soldiers down</span><span tts:color="#E5E5E5"> here virtual</span></p>
+      <p begin="91.95s" id="p41" end="93.81s"><span tts:color="#CCCCCC">reality</span><span tts:color="#E5E5E5"> the moment is new but in a very</span></p>
+      <p begin="93.81s" id="p42" end="94.799s"><span tts:color="#CCCCCC">short space of time</span></p>
+      <p begin="94.799s" id="p43" end="96.15s">there's going to be the<span tts:color="#E5E5E5"> ability for</span></p>
+      <p begin="96.15s" id="p44" end="98.67s"><span tts:color="#E5E5E5">teachers to create content specifically</span></p>
+      <p begin="98.67s" id="p45" end="100.32s">designed<span tts:color="#E5E5E5"> for their lessons</span><span tts:color="#CCCCCC"> so</span><span tts:color="#E5E5E5"> they can</span></p>
+      <p begin="100.32s" id="p46" end="102.18s"><span tts:color="#E5E5E5">play students and immersive environments</span></p>
+      <p begin="102.18s" id="p47" end="104.5s">and then base their lesson plans around</p>
+      <p begin="104.5s" id="p48" end="105.94s"><span tts:color="#CCCCCC">surely answer I think it's really</span></p>
+      <p begin="105.94s" id="p49" end="107.77s"><span tts:color="#E5E5E5">powerful</span><span tts:color="#CCCCCC"> and there's so many</span><span tts:color="#E5E5E5"> different</span></p>
+      <p begin="107.77s" id="p50" end="109.54s"><span tts:color="#E5E5E5">places that</span><span tts:color="#CCCCCC"> you can go so many different</span></p>
+      <p begin="109.54s" id="p51" end="112.27s">ways<span tts:color="#E5E5E5"> that</span><span tts:color="#CCCCCC"> you can learn using</span><span tts:color="#E5E5E5"> virtual</span></p>
+      <p begin="112.27s" id="p52" end="113.03s">reality</p>
+      <p begin="113.03s" id="p53" end="123.259s">[Music]</p>
+      <p begin="123.55s" id="p54" end="0.0s">you</p>
+    </div>
+  </body>
+</tt>

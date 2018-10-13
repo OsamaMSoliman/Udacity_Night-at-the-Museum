@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.919s" id="p0" end="8.14s">Virtual reality devices are becoming more<br />and more common, letting people explore digital</p>
+      <p begin="8.14s" id="p1" end="10.599s">worlds by being in movies or games.</p>
+      <p begin="10.599s" id="p2" end="14.67s">But this also means more people might experience<br />virtual reality sickness or cybersickness.</p>
+      <p begin="14.67s" id="p3" end="19.34s">It’s a lot like motion sickness, with symptoms<br />like disorientation, headaches, and feeling</p>
+      <p begin="19.34s" id="p4" end="20.34s">like you have to puke.</p>
+      <p begin="20.34s" id="p5" end="23.58s">Both seem to happen when your senses disagree<br />about whether or not you’re moving.</p>
+      <p begin="23.58s" id="p6" end="27.43s">But there are certain problems that are unique<br />to VR, so those are what researchers are really</p>
+      <p begin="27.43s" id="p7" end="28.43s">trying to fix.</p>
+      <p begin="28.43s" id="p8" end="30.789s">Some of the causes of VR sickness are just<br />limits of the technology.</p>
+      <p begin="30.789s" id="p9" end="34.39s">For example, if you turn your head but the<br />computer doesn’t tweak the virtual world</p>
+      <p begin="34.39s" id="p10" end="36.62s">right away, that’s a latency issue.</p>
+      <p begin="36.62s" id="p11" end="39.78s">Or the world might flicker, because the screens<br />aren’t updating quickly enough, which is</p>
+      <p begin="39.78s" id="p12" end="41.059s">a problem with the refresh rate.</p>
+      <p begin="41.059s" id="p13" end="43.559s">Companies are working on these things with<br />each new device.</p>
+      <p begin="43.559s" id="p14" end="47.039s">But a lot of people still get VR sickness<br />because their brains are getting conflicting</p>
+      <p begin="47.039s" id="p15" end="48.62s">signals from their senses.</p>
+      <p begin="48.62s" id="p16" end="52.519s">So, researchers from the Mayo Clinic created<br />something to trick your brain into thinking</p>
+      <p begin="52.519s" id="p17" end="53.68s">your body is moving.</p>
+      <p begin="53.68s" id="p18" end="57.739s">Normally, the vestibular system in your inner<br />ear detects movement with fluid and sensitive</p>
+      <p begin="57.739s" id="p19" end="60.879s">hair cells, and sends that information through<br />nerves to your brain.</p>
+      <p begin="60.879s" id="p20" end="65.63s">This technology, called galvanic vestibular<br />stimulation, uses small electrodes on a person’s</p>
+      <p begin="65.63s" id="p21" end="70.71s">head to send tiny electrical pulses, and stimulate<br />those same nerves whenever they move in the</p>
+      <p begin="70.71s" id="p22" end="71.71s">virtual world.</p>
+      <p begin="71.71s" id="p23" end="73.25s">And these pulses seem to do the trick!</p>
+      <p begin="73.25s" id="p24" end="77.31s">The brain thinks it’s seeing and feeling<br />movement, and people using this system seem</p>
+      <p begin="77.31s" id="p25" end="79.11s">to get VR sickness less often.</p>
+      <p begin="79.11s" id="p26" end="81.6s">However, other scientists think there might<br />be a simpler solution.</p>
+      <p begin="81.6s" id="p27" end="85.42s">One idea from Columbia University engineers<br />involved shrinking a user’s field of view</p>
+      <p begin="85.42s" id="p28" end="87.28s">when they moved quickly in a virtual world.</p>
+      <p begin="87.28s" id="p29" end="90.49s">It’s kind of similar to focusing on a distant<br />object to help with motion sickness:</p>
+      <p begin="90.49s" id="p30" end="94.53s">See, close objects at the edge of your vision<br />seem like they’re moving faster than objects</p>
+      <p begin="94.53s" id="p31" end="96.11s">that are far away and in front of you.</p>
+      <p begin="96.11s" id="p32" end="100.149s">By subtly blocking the edge of your vision,<br />the virtual movement might not seem as jarring.</p>
+      <p begin="100.149s" id="p33" end="105.219s">Other scientists from Purdue University have<br />found that a large, virtual nose at the bottom-center</p>
+      <p begin="105.219s" id="p34" end="106.219s">of the screen can help.</p>
+      <p begin="106.219s" id="p35" end="109.969s">They aren’t exactly sure why it works, but<br />having a stationary thing in your view, like</p>
+      <p begin="109.969s" id="p36" end="113.319s">your nose in real life, might just make you<br />feel more stable.</p>
+      <p begin="113.319s" id="p37" end="115.2s">Plus, it’s preparing us for smell-o-vision.</p>
+      <p begin="115.2s" id="p38" end="118.17s">Most of these studies are pretty small, so<br />it’ll take a lot more research to figure</p>
+      <p begin="118.17s" id="p39" end="120.679s">out how to help everyone who gets VR sickness.</p>
+      <p begin="120.679s" id="p40" end="124.909s">But pretty soon, you might be able to fly<br />spaceships through virtual galaxies without</p>
+      <p begin="124.909s" id="p41" end="125.909s">wanting to hurl afterward.</p>
+      <p begin="125.909s" id="p42" end="129.169s">Thanks for asking, and thanks especially to<br />all of our patrons on Patreon who keep these</p>
+      <p begin="129.169s" id="p43" end="130.258s">answers coming.</p>
+      <p begin="130.258s" id="p44" end="133.45s">If you’d like to submit questions to be<br />answered, or get some videos a few days early,</p>
+      <p begin="133.45s" id="p45" end="135.599s">just go to patreon.com/scishow.</p>
+      <p begin="135.599s" id="p46" end="0.0s">And don’t forget to go to youtube.com/scishow<br />and subscribe!</p>
+    </div>
+  </body>
+</tt>

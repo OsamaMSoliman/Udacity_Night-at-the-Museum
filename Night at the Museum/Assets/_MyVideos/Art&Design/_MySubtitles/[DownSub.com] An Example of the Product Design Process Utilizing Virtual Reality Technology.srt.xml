@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="9.019s" id="p0" end="14.04s">meet Eric<span tts:color="#E5E5E5"> an industrial designer here at</span></p>
+      <p begin="14.04s" id="p1" end="15.5s"><span tts:color="#CCCCCC">Design Concepts</span></p>
+      <p begin="15.5s" id="p2" end="18.359s">this current<span tts:color="#E5E5E5"> project is to design the</span></p>
+      <p begin="18.359s" id="p3" end="20.13s">external aesthetics<span tts:color="#E5E5E5"> of an industrial</span></p>
+      <p begin="20.13s" id="p4" end="24.09s">laser cutter so to conceptualize and</p>
+      <p begin="24.09s" id="p5" end="26.88s">brainstorm new ideas<span tts:color="#CCCCCC"> he</span><span tts:color="#E5E5E5"> sketches out a</span></p>
+      <p begin="26.88s" id="p6" end="32.34s"><span tts:color="#E5E5E5">variety of concepts then uses 3d CAD</span></p>
+      <p begin="32.34s" id="p7" end="35.489s">modeling<span tts:color="#E5E5E5"> adding materials colors and get</span></p>
+      <p begin="35.489s" id="p8" end="36.66s">a more<span tts:color="#CCCCCC"> detailed impression of the</span></p>
+      <p begin="36.66s" id="p9" end="38.969s">product to create still images<span tts:color="#E5E5E5"> and</span></p>
+      <p begin="38.969s" id="p10" end="44.219s">renderings now Eric wants to present<span tts:color="#CCCCCC"> his</span></p>
+      <p begin="44.219s" id="p11" end="46.41s">model and a compelling<span tts:color="#CCCCCC"> physical way</span></p>
+      <p begin="46.41s" id="p12" end="48.93s">so utilizes 3d printing<span tts:color="#E5E5E5"> and foam</span></p>
+      <p begin="48.93s" id="p13" end="50.85s"><span tts:color="#E5E5E5">modeling to create a scaled-down version</span></p>
+      <p begin="50.85s" id="p14" end="54.239s"><span tts:color="#CCCCCC">of the product</span><span tts:color="#E5E5E5"> but scaled models</span><span tts:color="#CCCCCC"> can</span></p>
+      <p begin="54.239s" id="p15" end="56.91s">only go so<span tts:color="#CCCCCC"> far and this</span><span tts:color="#E5E5E5"> product is about</span></p>
+      <p begin="56.91s" id="p16" end="60.21s"><span tts:color="#E5E5E5">the size of a shipping</span><span tts:color="#CCCCCC"> container so we</span></p>
+      <p begin="60.21s" id="p17" end="62.15s"><span tts:color="#CCCCCC">utilize virtual reality</span></p>
+      <p begin="62.15s" id="p18" end="63.43s">[Music]</p>
+      <p begin="63.43s" id="p19" end="66.67s">all he has to do is export the file<span tts:color="#E5E5E5"> in</span></p>
+      <p begin="66.67s" id="p20" end="70.3s">the format<span tts:color="#E5E5E5"> dot obj drag and drop the</span></p>
+      <p begin="70.3s" id="p21" end="75.43s">file into the VR rendering software<span tts:color="#E5E5E5"> drag</span></p>
+      <p begin="75.43s" id="p22" end="78.76s">and<span tts:color="#E5E5E5"> drop colors and materials and live</span></p>
+      <p begin="78.76s" id="p23" end="85.51s">update any changes<span tts:color="#CCCCCC"> with zero</span><span tts:color="#E5E5E5"> limit now</span></p>
+      <p begin="85.51s" id="p24" end="87.55s"><span tts:color="#E5E5E5">Aaron can get a sense</span><span tts:color="#CCCCCC"> of dimensions and</span></p>
+      <p begin="87.55s" id="p25" end="89.68s"><span tts:color="#CCCCCC">proportions and better understand the</span></p>
+      <p begin="89.68s" id="p26" end="91.39s">physical size of<span tts:color="#E5E5E5"> the</span><span tts:color="#CCCCCC"> product</span><span tts:color="#E5E5E5"> from</span></p>
+      <p begin="91.39s" id="p27" end="98.83s"><span tts:color="#E5E5E5">relation to human body</span><span tts:color="#CCCCCC"> you can even look</span></p>
+      <p begin="98.83s" id="p28" end="100.6s">inside the device<span tts:color="#CCCCCC"> by just walking</span></p>
+      <p begin="100.6s" id="p29" end="104.89s"><span tts:color="#CCCCCC">through it also gives him</span><span tts:color="#E5E5E5"> the</span></p>
+      <p begin="104.89s" id="p30" end="107.02s">opportunity<span tts:color="#E5E5E5"> to showcase progress to</span></p>
+      <p begin="107.02s" id="p31" end="109.9s">clients in an almost<span tts:color="#E5E5E5"> visible way before</span></p>
+      <p begin="109.9s" id="p32" end="111.58s"><span tts:color="#E5E5E5">going to production are paying huge</span></p>
+      <p begin="111.58s" id="p33" end="115.02s">amounts for our<span tts:color="#CCCCCC"> full-scale law</span></p>
+      <p begin="122.07s" id="p34" end="0.0s">you</p>
+    </div>
+  </body>
+</tt>
