@@ -31,12 +31,11 @@ public class GameManager : MonoBehaviour {
         gvr_rp.maxReticleDistance = elongate ? 20 : 5;
     }
 
-    public static RenderTexture GetNewRenderTexture(RenderTexture renderTextureSettings, GameObject targetGameObject) {
-        RenderTexture renderTexture = new RenderTexture(renderTextureSettings);
-        Material m = targetGameObject.GetComponent<Renderer>().material;
-        m.SetTexture("_MainTex", renderTexture);
-        m.SetTexture("_EmissionMap", renderTexture);
-        m.SetColor("_EmissionColor", Color.white * 0.65f);
+    public static RenderTexture GetNewRenderTexture(Material targetMaterial) {
+        RenderTexture renderTexture = new RenderTexture((RenderTexture)targetMaterial.GetTexture("_MainTex"));
+        targetMaterial.SetTexture("_MainTex", renderTexture);
+        targetMaterial.SetTexture("_EmissionMap", renderTexture);
+        targetMaterial.SetColor("_EmissionColor", Color.white);
         return renderTexture;
     }
 }

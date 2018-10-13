@@ -13,12 +13,18 @@ public class VideoController : MonoBehaviour {
 
     private const string NO_SUB = "<color=#999>sorry, <sprite=15> no subtitles for this video yet!";
 
+    private static List<VideoController> vcs = new List<VideoController>();
     private VideoPlayer videoPlayer;
+    private AudioSource targetAudio;
 
     private List<Subtitle> subtitlesList;
 
-    private int currentVideoIndex;
     private int currentSubtitleIndex;
+    private int _currentVideoIndex;
+    private int currentVideoIndex {
+        get { return _currentVideoIndex % videos.Length; }
+        set { _currentVideoIndex = value; }
+    }
     private bool _isPlaying; // I used this instead of VideoPlayer.isPlaying for more accurate performance
     private bool IsPlaying {
         get { return _isPlaying; }
@@ -29,34 +35,47 @@ public class VideoController : MonoBehaviour {
         }
     }
 
-    private void Start() {
+    public void SetUp(AudioSource audioSource) {
+        vcs.Add(this);
         videoPlayer = GetComponent<VideoPlayer>();
-        videoPlayer.targetTexture = GameManager.GetNewRenderTexture(videoPlayer.targetTexture, gameObject);
-        videoPlayer.SetTargetAudioSource(0, GameManager.Instance.AudioManager.audioSource);
+        videoPlayer.targetTexture.Release();
+        videoPlayer.targetTexture = GameManager.GetNewRenderTexture(GetComponent<Renderer>().material);
+        targetAudio = audioSource;
+        videoPlayer.SetTargetAudioSource(0, audioSource);
         videoPlayer.clip = videos[currentVideoIndex];
-        subtitlesList = XmlSubtitlesParser.Instance.GetSubtitles(subtitles[currentVideoIndex % subtitles.Length]);
+        subtitlesList = XmlSubtitlesParser.Instance.GetSubtitles(subtitles[currentVideoIndex]);
         if (subtitlesList == null) subtitleText.text = NO_SUB;
     }
     
+
     public void TogglePlay() {
         if (IsPlaying) videoPlayer.Pause();
         else videoPlayer.Play();
         IsPlaying = !IsPlaying;
         videoTitle.text = videoPlayer.clip.name;
+        PauseAllOtherVideoPlayers(this);
     }
 
     public void PlayNext() {
         IsPlaying = true;
         currentSubtitleIndex = 0;
         videoPlayer.Stop();
-        videoPlayer.clip = videos[(++currentVideoIndex) % videos.Length];
+        currentVideoIndex++;
+        videoPlayer.clip = videos[currentVideoIndex];
         subtitlesList = XmlSubtitlesParser.Instance.GetSubtitles(subtitles[currentVideoIndex]);
         if (subtitlesList == null) subtitleText.text = NO_SUB;
         videoPlayer.Play();
         videoTitle.text = videoPlayer.clip.name;
+        PauseAllOtherVideoPlayers(this);
     }
 
-    public void VolumeUpDown(bool up) { GameManager.Instance.AudioManager.VolumeTuning(up); }
+    public void VolumeUpDown(bool up) {
+        if (up && targetAudio.volume < 1) {
+            targetAudio.volume += 0.1f;
+        } else if (!up && targetAudio.volume > 0) {
+            targetAudio.volume -= 0.1f;
+        }
+    }
 
     private void OnValidate() {
         if (videos.Length != subtitles.Length) {
@@ -74,5 +93,12 @@ public class VideoController : MonoBehaviour {
             subtitleText.text = s.Text;
         if (videoPlayer.time >= s.End && subtitleText.text == string.Empty)
             currentSubtitleIndex++;
+    }
+
+    public static void PauseAllOtherVideoPlayers(VideoController me = null) {
+        foreach (var vc in vcs) {
+            if (me == vc) continue;
+            if (vc.IsPlaying) vc.TogglePlay();
+        }
     }
 }

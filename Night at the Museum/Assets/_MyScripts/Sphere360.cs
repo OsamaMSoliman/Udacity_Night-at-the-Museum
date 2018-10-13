@@ -1,22 +1,28 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.Video;
 
 public class Sphere360 : MonoBehaviour {
 
-    [SerializeField] private Transform returnWaypoint;
+    public static event Action<VideoController> PauseAll;
+
+    private Transform returnWaypoint;
     private VideoPlayer videoPlayer;
 
     private void Start() {
         videoPlayer = GetComponent<VideoPlayer>();
-        videoPlayer.targetTexture = GameManager.GetNewRenderTexture(videoPlayer.targetTexture, gameObject);
+        videoPlayer.targetTexture = GameManager.GetNewRenderTexture(GetComponent<Renderer>().material);
         videoPlayer.SetTargetAudioSource(0, GameManager.Instance.AudioManager.audioSource);
     }
+
+    public void SetUp(Transform returnWaypoint) { this.returnWaypoint = returnWaypoint; }
 
     public void Enter360Sphere() {
         GameManager.Instance.FadingManager.MidFading += () => { MovePlayer(true); };
         GameManager.Instance.FadingManager.EndFading += Play360Video;
         GameManager.Instance.FadingManager.FadeInAndOut();
         GameManager.Instance.ChangeRayLength(false);
+        if (PauseAll != null) PauseAll(null);
     }
 
 
@@ -25,7 +31,7 @@ public class Sphere360 : MonoBehaviour {
     }
 
     private void Play360Video() {
-        videoPlayer.Play(); 
+        videoPlayer.Play();
         videoPlayer.loopPointReached += (vp) => { Exit360Sphere(); };
     }
 
