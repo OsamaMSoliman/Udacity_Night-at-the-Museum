@@ -1,8 +1,8 @@
 # Udacity_Night-at-the-Museum for [VR Developer Nanodegree](http://udacity.com/vr) program.
 
-<h3>[Youtube link](https://youtu.be/nDbrVf-diOk)</h3>
+### [Youtube link](https://youtu.be/nDbrVf-diOk)
 
-<h3>[Meduim Article](https://medium.com/@osama2o1ooo/experience-vr-in-a-vr-museum-41316d5b66fb)</h3>
+### [Meduim Article](https://medium.com/@osama2o1ooo/experience-vr-in-a-vr-museum-41316d5b66fb)
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
