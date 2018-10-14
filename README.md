@@ -29,9 +29,10 @@
 ![Screenshot](3.png)
 
 # Important Notes:
-I didn't upload about 0.5GB of video assets to keep the repo size small.
-you can download any video and added it in the museum as u like (and the subtitles are optional)
-but here are the links to the videos I used (subtitles are already in the project):
+I didn't upload about 0.5GB of video assets to keep the repo size small,
+you can download any video and added it in the museum as u like (and the subtitles are optional).
+
+But here are the links to the videos I used (subtitles are already in the project): 
 ### Udacity_Night-at-the-Museum/Night at the Museum/Assets/_MyVideos/Art&Design/
 [360 The starry night Stereo VR experience](https://youtu.be/G7Dt9ziemYA) <br/>
 [An Example of the Product Design Process Utilizing Virtual Reality Technology](https://youtu.be/TiY45xUamI0)<br/>
@@ -43,9 +44,9 @@ but here are the links to the videos I used (subtitles are already in the projec
 [VR in the Classroom - Tablet Academy](https://www.youtube.com/watch?v=bN3JSk9xrhE&t=60s)<br/>
 [Virtual Reality For Training (VR)](https://www.youtube.com/watch?v=1MpUUDr6OFM)<br/>
 ### Udacity_Night-at-the-Museum/Night at the Museum/Assets/_MyVideos/Gaming/
-[Assassin's Creed in 360 Degrees](https://www.youtube.com/watch?v=g0AYnMPkg2k&t=72s)
-[Full body VR gaming suit - Teslasuit](https://www.youtube.com/watch?v=fCsjUG6-F4I&t=47s)
-[The 'Virtuix Omni' Actually Lets You Run Around Video Games](https://www.youtube.com/watch?v=ugn9YHyvtS8)
+[Assassin's Creed in 360 Degrees](https://www.youtube.com/watch?v=g0AYnMPkg2k&t=72s)<br/>
+[Full body VR gaming suit - Teslasuit](https://www.youtube.com/watch?v=fCsjUG6-F4I&t=47s)<br/>
+[The 'Virtuix Omni' Actually Lets You Run Around Video Games](https://www.youtube.com/watch?v=ugn9YHyvtS8)<br/>
 ### Udacity_Night-at-the-Museum/Night at the Museum/Assets/_MyVideos/Medical/
 [Surgical Training in 360-Degree Virtual Reality for Oculus Rift (with intro narration)](https://youtu.be/n7ALZkPoTYQ)<br/>
 [Virtual Reality Helps Patients at Cedar Sinai Hospital](https://www.youtube.com/watch?v=0pizYFG8F3A)<br/>
@@ -57,8 +58,10 @@ but here are the links to the videos I used (subtitles are already in the projec
 [U.S. Soldiers Train Using Virtual Reality](https://www.youtube.com/watch?v=NND7Hk5fYdI&t=106s)<br/>
 [US Army Virtual Reality Military Training](https://www.youtube.com/watch?v=SlKmXVXy0k4)<br/>
 ## how to add the videos in the museum:
-1_) search for VideoController in the scene view or hierarchy
-2_) select any of the TVs
-3_) add the videos you want in the video list (if any video has a subtitle it has to be in the same index as the video)
-![Screenshot](How to add Videos.png)
+1_) search for VideoController in the scene view or hierarchy<br/>
+2_) select any of the TVs<br/>
+3_) add the videos you want in the video list (if any video has a subtitle it has to be in the same index as the video)<br/>
+
+![Screenshot](HowToAddVideos.png)
+
 P.S. for the subtitles I used [this site to transfer them to TimedText1.0 (.xml/.ttml)](https://gotranscript.com/subtitle-converter)
