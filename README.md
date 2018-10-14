@@ -7,7 +7,8 @@
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
-- [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) v1.0.55
+- [TextMesh Pro v1.2.2](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) 
+- [ProBuilder v2.9.8](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418) 
 
 
 ### Directory Structure
@@ -20,4 +21,6 @@
 **Build for Android**
 
 <h1><ins>Some Screenshots:</ins></h1>
-![Screenshot](ImagePath)
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
