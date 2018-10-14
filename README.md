@@ -21,6 +21,9 @@
 **Build for Android**
 
 <h1><ins>Some Screenshots:</ins></h1>
+
 ![Screenshot](1.png)
+
 ![Screenshot](2.png)
+
 ![Screenshot](3.png)
